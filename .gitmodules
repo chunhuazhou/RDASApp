@@ -47,8 +47,8 @@
 	path = sorc/oops
 #    url = https://github.com/jcsda/oops
 #    branch = develop
-    url = https://github.com/JCSDA-internal/oops.git
-    branch = feature/letkf_obs_redistribution_sync
+    url = https://github.com/RRFSx/oops.git
+    branch = rrfs_20260716
 	ignore = all
 [submodule "sorc/saber"]
 	path = sorc/saber
